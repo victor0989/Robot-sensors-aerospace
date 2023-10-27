@@ -10,3 +10,7 @@ Strace is a useful tool to test linux kernel signal logs that comes
 from any kind of robot file or c++ file.
 
 Debuggers are useful to test the robot sensors for the aerospace industry.
+The real purpose of software programming with Arduino sensors and AVR microcontrollers is testing the functions and the microcontrollers files
+before launch them in production.
+
+Automation with python or debuggers are welcome to aerospace projects for software testing
