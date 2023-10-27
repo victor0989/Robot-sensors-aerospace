@@ -13,4 +13,4 @@ Debuggers are useful to test the robot sensors for the aerospace industry.
 The real purpose of software programming with Arduino sensors and AVR microcontrollers is testing the functions and the microcontrollers files
 before launch them in production.
 
-Automation with python or debuggers are welcome to aerospace projects for software testing
+Automation with python or debuggers are welcome to aerospace projects for software testing.
