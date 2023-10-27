@@ -47,8 +47,7 @@ ruby commands
 
 #videos make the server slow
 #Big images or the server processes
-#Bots - reboting the suggestions
-#anuncios y bots video converter
+#Bots - 
 # user-CPU
 locate static/001.webm
 server/deploy_test_videos/
